@@ -1,7 +1,7 @@
 {
-  "name": "@upstash/feedback",
+  "name": "@satang/feedback",
   "version": "2.0.0",
-  "author": "Adem ilter <adem@upstash.com>",
+  "author": "Sanhanut Janwibool<sanhanut440@gmail.com>",
   "license": "MIT",
   "main": "./index.js",
   "module": "./index.mjs",
@@ -25,12 +25,12 @@
     "tsup": "^5.12.7",
     "typescript": "^4.6.4"
   },
-  "homepage": "https://github.com/upstash/feedback#readme",
+  "homepage": "https://github.com/stangkaaipean/feedback#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://ademilter@github.com/upstash/feedback.git"
+    "url": "git+https://github.com/stangkaaipean/feedback.git"
   },
   "bugs": {
-    "url": "https://github.com/upstash/feedback/issues"
+    "url": "https://github.com/stangkaaipean/feedback/issues"
   }
 }
